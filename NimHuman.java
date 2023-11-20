@@ -5,7 +5,6 @@
 public class NimHuman{
    
     private int choice;
-    private Scanner input;
     
     public NimHuman(){
         choice = -1;
